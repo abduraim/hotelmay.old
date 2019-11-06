@@ -1,0 +1,157 @@
+.red {
+    border: 1px solid red;
+}
+.blue {
+    border: 1px solid blue;
+}
+.green {
+    border: 1px solid green;
+}
+.yellow {
+    border: 1px solid yellow;
+}
+.pink {
+    border: 1px solid pink;
+}
+.grey {
+    border: 1px solid grey;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: x-large;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.div_form_order {
+    background-color: #999999;
+    border: 1px solid #555555;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.div_main {
+    background: url('../img/bg/main_bg.jpg') no-repeat center;
+    background-size: cover;
+    margin-top: -1.5em;
+}
+
+.div_main_logo {
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+.div_main_contacts {
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+.main_title {
+    text-shadow: 1px 1px 1em white;
+    text-align: left;
+}
+
+.div_benefit {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.div_benefit_block {
+    margin-top: 3em;
+    margin-bottom: 1em;
+    height: 7em;
+}
+
+.div_rooms {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.div_rooms_block {
+    padding-bottom: 1em;
+}
+
+.rooms_cost_old {
+    text-decoration: line-through;
+}
+
+.rooms_cost_new {
+    color: red;
+}
+
+.div_why_block {
+    margin-top: 3em;
+    margin-bottom: 1em;
+    height: 9em;
+    color: #843534;
+}
+
+.div_around {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.div_around_block {
+    padding: 2em;
+}
+
+.div_around_img_caption {
+    padding-left: 1em;
+    padding-right: 2em;
+    overflow: hidden;
+    position: absolute;
+    top: 40%;
+    background-color: rgba(255,255,255,0.8);
+}
+
+.div_callback {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background: url('../img/bg/callback_bg.jpg') no-repeat center;
+    background-size: auto;
+}
+
+.div_callback_form {
+    padding: 1em;
+    margin-top: 7em;
+    margin-bottom: 5em;
+    background-color: white;
+    border-radius: 1em;
+}
+
+.div_comments {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.div_comments_block {
+    border: 1px solid grey;
+    border-radius: 1em;
+    padding: 1em;
+    margin-right: 1em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 2em;
+}
+
+.div_comments_img {
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin-right: -1.5em;
+    margin-bottom: -2em;
+    position: relative;
+    top: -3em;
+    left: -3em;
+}
+
+.div_footer {
+    background-color: #0f0f0f;
+    padding-top: 2em;
+    padding-bottom: 4em;
+}

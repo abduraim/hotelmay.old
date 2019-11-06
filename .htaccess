@@ -1,0 +1,6 @@
+AddDefaultCharset utf-8
+AddType 'text/html; charset=utf-8' .html .htm .shtml
+
+order allow,deny
+deny from 31.173.80.0
+allow from all
